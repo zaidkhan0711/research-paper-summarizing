@@ -4,11 +4,6 @@ An AI-powered web application that analyzes resumes (PDF format) and provides sk
 
 ---
 
-## 🌐 Live Demo
-👉 https://zaidairesumeanalyze.streamlit.app
-
----
-
 ## 📌 Features
 
 - 📄 Upload Resume (PDF)
